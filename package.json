@@ -1,0 +1,22 @@
+{
+  "name": "Cleanhome",
+  "version": "1.0.0",
+  "description": "My wondrous Nuxt.js project",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "swiper": "^5.3.8",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-count-to": "^1.0.13",
+    "vue-observe-visibility": "^0.4.6"
+  },
+  "devDependencies": {
+  }
+}
